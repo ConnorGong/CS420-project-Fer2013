@@ -1,0 +1,1750 @@
+----- epoch #0 -----
+epoch#0 D_train batch#0/225 loss=2.0342445373535156
+epoch#0 D_train batch#100/225 loss=1.5266512632369995
+epoch#0 D_train batch#200/225 loss=1.3162388801574707
+
+Test set: Average loss: 1.7170, Accuracy: 1179/3589 (32%)
+epoch #0/250 - ptime: 26.21
+----- epoch #1 -----
+epoch#1 D_train batch#0/225 loss=1.2226582765579224
+epoch#1 D_train batch#100/225 loss=1.2662885189056396
+epoch#1 D_train batch#200/225 loss=1.0893388986587524
+
+Test set: Average loss: 1.4706, Accuracy: 1541/3589 (42%)
+epoch #1/250 - ptime: 26.56
+----- epoch #2 -----
+epoch#2 D_train batch#0/225 loss=1.1820213794708252
+epoch#2 D_train batch#100/225 loss=1.118650197982788
+epoch#2 D_train batch#200/225 loss=1.0545803308486938
+
+Test set: Average loss: 1.6873, Accuracy: 1323/3589 (36%)
+epoch #2/250 - ptime: 26.19
+----- epoch #3 -----
+epoch#3 D_train batch#0/225 loss=1.291438341140747
+epoch#3 D_train batch#100/225 loss=1.2973034381866455
+epoch#3 D_train batch#200/225 loss=1.115871787071228
+
+Test set: Average loss: 1.2561, Accuracy: 1901/3589 (52%)
+epoch #3/250 - ptime: 60.67
+----- epoch #4 -----
+epoch#4 D_train batch#0/225 loss=1.1912658214569092
+epoch#4 D_train batch#100/225 loss=1.0532878637313843
+epoch#4 D_train batch#200/225 loss=1.2413381338119507
+
+Test set: Average loss: 1.2085, Accuracy: 1929/3589 (53%)
+epoch #4/250 - ptime: 43.59
+----- epoch #5 -----
+epoch#5 D_train batch#0/225 loss=0.9595046043395996
+epoch#5 D_train batch#100/225 loss=1.1245579719543457
+epoch#5 D_train batch#200/225 loss=0.9787352085113525
+
+Test set: Average loss: 1.1149, Accuracy: 2034/3589 (56%)
+epoch #5/250 - ptime: 26.40
+----- epoch #6 -----
+epoch#6 D_train batch#0/225 loss=0.8576973080635071
+epoch#6 D_train batch#100/225 loss=1.043025255203247
+epoch#6 D_train batch#200/225 loss=1.25123131275177
+
+Test set: Average loss: 1.2004, Accuracy: 2013/3589 (56%)
+epoch #6/250 - ptime: 26.80
+----- epoch #7 -----
+epoch#7 D_train batch#0/225 loss=0.9439529180526733
+epoch#7 D_train batch#100/225 loss=0.8431527018547058
+epoch#7 D_train batch#200/225 loss=0.9475931525230408
+
+Test set: Average loss: 1.1164, Accuracy: 2054/3589 (57%)
+epoch #7/250 - ptime: 26.15
+----- epoch #8 -----
+epoch#8 D_train batch#0/225 loss=0.9571172595024109
+epoch#8 D_train batch#100/225 loss=0.9556120038032532
+epoch#8 D_train batch#200/225 loss=0.9906381368637085
+
+Test set: Average loss: 1.0895, Accuracy: 2089/3589 (58%)
+epoch #8/250 - ptime: 26.24
+----- epoch #9 -----
+epoch#9 D_train batch#0/225 loss=0.9876585006713867
+epoch#9 D_train batch#100/225 loss=0.9730386137962341
+epoch#9 D_train batch#200/225 loss=1.0223023891448975
+
+Test set: Average loss: 1.1147, Accuracy: 2086/3589 (58%)
+epoch #9/250 - ptime: 26.44
+----- epoch #10 -----
+epoch#10 D_train batch#0/225 loss=0.908443808555603
+epoch#10 D_train batch#100/225 loss=0.8743091821670532
+epoch#10 D_train batch#200/225 loss=0.8756046891212463
+
+Test set: Average loss: 1.0303, Accuracy: 2203/3589 (61%)
+epoch #10/250 - ptime: 26.37
+----- epoch #11 -----
+epoch#11 D_train batch#0/225 loss=0.8983699679374695
+epoch#11 D_train batch#100/225 loss=0.8144792318344116
+epoch#11 D_train batch#200/225 loss=0.9272013306617737
+
+Test set: Average loss: 1.1502, Accuracy: 2125/3589 (59%)
+epoch #11/250 - ptime: 27.05
+----- epoch #12 -----
+epoch#12 D_train batch#0/225 loss=0.8145142197608948
+epoch#12 D_train batch#100/225 loss=0.9044345021247864
+epoch#12 D_train batch#200/225 loss=0.940931499004364
+
+Test set: Average loss: 1.0771, Accuracy: 2157/3589 (60%)
+epoch #12/250 - ptime: 26.20
+----- epoch #13 -----
+epoch#13 D_train batch#0/225 loss=0.7088536024093628
+epoch#13 D_train batch#100/225 loss=0.7225877642631531
+epoch#13 D_train batch#200/225 loss=0.8096717596054077
+
+Test set: Average loss: 1.0647, Accuracy: 2153/3589 (59%)
+epoch #13/250 - ptime: 26.11
+----- epoch #14 -----
+epoch#14 D_train batch#0/225 loss=0.8412136435508728
+epoch#14 D_train batch#100/225 loss=0.8715590238571167
+epoch#14 D_train batch#200/225 loss=0.7449965476989746
+
+Test set: Average loss: 1.1296, Accuracy: 2136/3589 (59%)
+epoch #14/250 - ptime: 26.11
+----- epoch #15 -----
+epoch#15 D_train batch#0/225 loss=0.6717915534973145
+epoch#15 D_train batch#100/225 loss=0.9115606546401978
+epoch#15 D_train batch#200/225 loss=0.7219007015228271
+
+Test set: Average loss: 1.0757, Accuracy: 2161/3589 (60%)
+epoch #15/250 - ptime: 26.49
+----- epoch #16 -----
+epoch#16 D_train batch#0/225 loss=0.6943721771240234
+epoch#16 D_train batch#100/225 loss=0.7765048146247864
+epoch#16 D_train batch#200/225 loss=0.9140399098396301
+
+Test set: Average loss: 1.1175, Accuracy: 2105/3589 (58%)
+epoch #16/250 - ptime: 26.86
+----- epoch #17 -----
+epoch#17 D_train batch#0/225 loss=0.8455637097358704
+epoch#17 D_train batch#100/225 loss=0.7315963506698608
+epoch#17 D_train batch#200/225 loss=0.7271737456321716
+
+Test set: Average loss: 1.0598, Accuracy: 2236/3589 (62%)
+epoch #17/250 - ptime: 26.74
+----- epoch #18 -----
+epoch#18 D_train batch#0/225 loss=0.6773428320884705
+epoch#18 D_train batch#100/225 loss=0.8514760136604309
+epoch#18 D_train batch#200/225 loss=0.9320489168167114
+
+Test set: Average loss: 1.0513, Accuracy: 2231/3589 (62%)
+epoch #18/250 - ptime: 26.52
+----- epoch #19 -----
+epoch#19 D_train batch#0/225 loss=0.7152760624885559
+epoch#19 D_train batch#100/225 loss=0.874804675579071
+epoch#19 D_train batch#200/225 loss=0.8122646808624268
+
+Test set: Average loss: 1.0633, Accuracy: 2231/3589 (62%)
+epoch #19/250 - ptime: 26.50
+----- epoch #20 -----
+epoch#20 D_train batch#0/225 loss=0.6754930019378662
+epoch#20 D_train batch#100/225 loss=0.5855386257171631
+epoch#20 D_train batch#200/225 loss=0.7152795195579529
+
+Test set: Average loss: 1.0880, Accuracy: 2188/3589 (60%)
+epoch #20/250 - ptime: 26.61
+----- epoch #21 -----
+epoch#21 D_train batch#0/225 loss=0.7016375064849854
+epoch#21 D_train batch#100/225 loss=0.5930449962615967
+epoch#21 D_train batch#200/225 loss=0.6369731426239014
+
+Test set: Average loss: 1.1263, Accuracy: 2184/3589 (60%)
+epoch #21/250 - ptime: 26.81
+----- epoch #22 -----
+epoch#22 D_train batch#0/225 loss=0.701583206653595
+epoch#22 D_train batch#100/225 loss=0.5661104917526245
+epoch#22 D_train batch#200/225 loss=0.6877224445343018
+
+Test set: Average loss: 1.1565, Accuracy: 2159/3589 (60%)
+epoch #22/250 - ptime: 25.92
+----- epoch #23 -----
+epoch#23 D_train batch#0/225 loss=0.700143575668335
+epoch#23 D_train batch#100/225 loss=0.5369110107421875
+epoch#23 D_train batch#200/225 loss=0.6669997572898865
+
+Test set: Average loss: 1.1421, Accuracy: 2191/3589 (61%)
+epoch #23/250 - ptime: 26.77
+----- epoch #24 -----
+epoch#24 D_train batch#0/225 loss=0.6310836672782898
+epoch#24 D_train batch#100/225 loss=0.6400855183601379
+epoch#24 D_train batch#200/225 loss=0.6457457542419434
+
+Test set: Average loss: 1.1352, Accuracy: 2193/3589 (61%)
+epoch #24/250 - ptime: 26.46
+----- epoch #25 -----
+epoch#25 D_train batch#0/225 loss=0.6046308279037476
+epoch#25 D_train batch#100/225 loss=0.5621052980422974
+epoch#25 D_train batch#200/225 loss=0.6107907891273499
+
+Test set: Average loss: 1.2174, Accuracy: 2116/3589 (58%)
+epoch #25/250 - ptime: 26.29
+----- epoch #26 -----
+epoch#26 D_train batch#0/225 loss=0.5602065920829773
+epoch#26 D_train batch#100/225 loss=0.6021201610565186
+epoch#26 D_train batch#200/225 loss=0.5891842842102051
+
+Test set: Average loss: 1.1785, Accuracy: 2168/3589 (60%)
+epoch #26/250 - ptime: 26.34
+----- epoch #27 -----
+epoch#27 D_train batch#0/225 loss=0.5207656025886536
+epoch#27 D_train batch#100/225 loss=0.5502861738204956
+epoch#27 D_train batch#200/225 loss=0.6581853032112122
+
+Test set: Average loss: 1.1499, Accuracy: 2250/3589 (62%)
+epoch #27/250 - ptime: 26.52
+----- epoch #28 -----
+epoch#28 D_train batch#0/225 loss=0.5072341561317444
+epoch#28 D_train batch#100/225 loss=0.631763219833374
+epoch#28 D_train batch#200/225 loss=0.5302964448928833
+
+Test set: Average loss: 1.2475, Accuracy: 2101/3589 (58%)
+epoch #28/250 - ptime: 26.57
+----- epoch #29 -----
+epoch#29 D_train batch#0/225 loss=0.6503303647041321
+epoch#29 D_train batch#100/225 loss=0.4165470004081726
+epoch#29 D_train batch#200/225 loss=0.6378921270370483
+
+Test set: Average loss: 1.1793, Accuracy: 2210/3589 (61%)
+epoch #29/250 - ptime: 26.58
+----- epoch #30 -----
+epoch#30 D_train batch#0/225 loss=0.5562449097633362
+epoch#30 D_train batch#100/225 loss=0.5216093063354492
+epoch#30 D_train batch#200/225 loss=0.5053554773330688
+
+Test set: Average loss: 1.2522, Accuracy: 2149/3589 (59%)
+epoch #30/250 - ptime: 26.18
+----- epoch #31 -----
+epoch#31 D_train batch#0/225 loss=0.40979665517807007
+epoch#31 D_train batch#100/225 loss=0.36328527331352234
+epoch#31 D_train batch#200/225 loss=0.5712845921516418
+
+Test set: Average loss: 1.2505, Accuracy: 2165/3589 (60%)
+epoch #31/250 - ptime: 26.90
+----- epoch #32 -----
+epoch#32 D_train batch#0/225 loss=0.4278884530067444
+epoch#32 D_train batch#100/225 loss=0.5300082564353943
+epoch#32 D_train batch#200/225 loss=0.3909361958503723
+
+Test set: Average loss: 1.4669, Accuracy: 1935/3589 (53%)
+epoch #32/250 - ptime: 26.53
+----- epoch #33 -----
+epoch#33 D_train batch#0/225 loss=0.45162609219551086
+epoch#33 D_train batch#100/225 loss=0.438321590423584
+epoch#33 D_train batch#200/225 loss=0.36955371499061584
+
+Test set: Average loss: 1.1833, Accuracy: 2238/3589 (62%)
+epoch #33/250 - ptime: 26.58
+----- epoch #34 -----
+epoch#34 D_train batch#0/225 loss=0.5315667390823364
+epoch#34 D_train batch#100/225 loss=0.32398754358291626
+epoch#34 D_train batch#200/225 loss=0.6819700002670288
+
+Test set: Average loss: 1.2305, Accuracy: 2255/3589 (62%)
+epoch #34/250 - ptime: 26.56
+----- epoch #35 -----
+epoch#35 D_train batch#0/225 loss=0.36565837264060974
+epoch#35 D_train batch#100/225 loss=0.38252219557762146
+epoch#35 D_train batch#200/225 loss=0.39724311232566833
+
+Test set: Average loss: 1.2699, Accuracy: 2209/3589 (61%)
+epoch #35/250 - ptime: 26.05
+----- epoch #36 -----
+epoch#36 D_train batch#0/225 loss=0.3790970742702484
+epoch#36 D_train batch#100/225 loss=0.39062225818634033
+epoch#36 D_train batch#200/225 loss=0.4175155758857727
+
+Test set: Average loss: 1.2692, Accuracy: 2209/3589 (61%)
+epoch #36/250 - ptime: 26.06
+----- epoch #37 -----
+epoch#37 D_train batch#0/225 loss=0.3895389437675476
+epoch#37 D_train batch#100/225 loss=0.44784843921661377
+epoch#37 D_train batch#200/225 loss=0.40875911712646484
+
+Test set: Average loss: 1.2539, Accuracy: 2264/3589 (63%)
+epoch #37/250 - ptime: 25.80
+----- epoch #38 -----
+epoch#38 D_train batch#0/225 loss=0.45656701922416687
+epoch#38 D_train batch#100/225 loss=0.4556562900543213
+epoch#38 D_train batch#200/225 loss=0.34186479449272156
+
+Test set: Average loss: 1.2101, Accuracy: 2239/3589 (62%)
+epoch #38/250 - ptime: 25.87
+----- epoch #39 -----
+epoch#39 D_train batch#0/225 loss=0.37640380859375
+epoch#39 D_train batch#100/225 loss=0.45413053035736084
+epoch#39 D_train batch#200/225 loss=0.4337778687477112
+
+Test set: Average loss: 1.2673, Accuracy: 2258/3589 (62%)
+epoch #39/250 - ptime: 26.04
+----- epoch #40 -----
+epoch#40 D_train batch#0/225 loss=0.41807636618614197
+epoch#40 D_train batch#100/225 loss=0.4168953001499176
+epoch#40 D_train batch#200/225 loss=0.5109391808509827
+
+Test set: Average loss: 1.2820, Accuracy: 2247/3589 (62%)
+epoch #40/250 - ptime: 25.88
+----- epoch #41 -----
+epoch#41 D_train batch#0/225 loss=0.34979110956192017
+epoch#41 D_train batch#100/225 loss=0.43797358870506287
+epoch#41 D_train batch#200/225 loss=0.46959295868873596
+
+Test set: Average loss: 1.3409, Accuracy: 2250/3589 (62%)
+epoch #41/250 - ptime: 25.61
+----- epoch #42 -----
+epoch#42 D_train batch#0/225 loss=0.4539962112903595
+epoch#42 D_train batch#100/225 loss=0.3727019131183624
+epoch#42 D_train batch#200/225 loss=0.3672802150249481
+
+Test set: Average loss: 1.3242, Accuracy: 2241/3589 (62%)
+epoch #42/250 - ptime: 25.58
+----- epoch #43 -----
+epoch#43 D_train batch#0/225 loss=0.27285850048065186
+epoch#43 D_train batch#100/225 loss=0.366476833820343
+epoch#43 D_train batch#200/225 loss=0.37351635098457336
+
+Test set: Average loss: 1.3866, Accuracy: 2188/3589 (60%)
+epoch #43/250 - ptime: 25.65
+----- epoch #44 -----
+epoch#44 D_train batch#0/225 loss=0.30887430906295776
+epoch#44 D_train batch#100/225 loss=0.3988969624042511
+epoch#44 D_train batch#200/225 loss=0.2666274905204773
+
+Test set: Average loss: 1.2686, Accuracy: 2287/3589 (63%)
+epoch #44/250 - ptime: 26.13
+----- epoch #45 -----
+epoch#45 D_train batch#0/225 loss=0.315522700548172
+epoch#45 D_train batch#100/225 loss=0.3444645404815674
+epoch#45 D_train batch#200/225 loss=0.3360828161239624
+
+Test set: Average loss: 1.3444, Accuracy: 2228/3589 (62%)
+epoch #45/250 - ptime: 25.83
+----- epoch #46 -----
+epoch#46 D_train batch#0/225 loss=0.20377741754055023
+epoch#46 D_train batch#100/225 loss=0.2603297233581543
+epoch#46 D_train batch#200/225 loss=0.4331176280975342
+
+Test set: Average loss: 1.4058, Accuracy: 2239/3589 (62%)
+epoch #46/250 - ptime: 25.83
+----- epoch #47 -----
+epoch#47 D_train batch#0/225 loss=0.18739992380142212
+epoch#47 D_train batch#100/225 loss=0.2111504226922989
+epoch#47 D_train batch#200/225 loss=0.3081691861152649
+
+Test set: Average loss: 1.3410, Accuracy: 2270/3589 (63%)
+epoch #47/250 - ptime: 25.69
+----- epoch #48 -----
+epoch#48 D_train batch#0/225 loss=0.2602285146713257
+epoch#48 D_train batch#100/225 loss=0.3078083097934723
+epoch#48 D_train batch#200/225 loss=0.23202981054782867
+
+Test set: Average loss: 1.4851, Accuracy: 2185/3589 (60%)
+epoch #48/250 - ptime: 25.94
+----- epoch #49 -----
+epoch#49 D_train batch#0/225 loss=0.20044101774692535
+epoch#49 D_train batch#100/225 loss=0.36697399616241455
+epoch#49 D_train batch#200/225 loss=0.3060747981071472
+
+Test set: Average loss: 1.3796, Accuracy: 2299/3589 (64%)
+epoch #49/250 - ptime: 26.38
+----- epoch #50 -----
+epoch#50 D_train batch#0/225 loss=0.2848944664001465
+epoch#50 D_train batch#100/225 loss=0.2583017945289612
+epoch#50 D_train batch#200/225 loss=0.25832265615463257
+
+Test set: Average loss: 1.6540, Accuracy: 2032/3589 (56%)
+epoch #50/250 - ptime: 26.12
+----- epoch #51 -----
+epoch#51 D_train batch#0/225 loss=0.26571908593177795
+epoch#51 D_train batch#100/225 loss=0.2744871973991394
+epoch#51 D_train batch#200/225 loss=0.36298084259033203
+
+Test set: Average loss: 1.4772, Accuracy: 2156/3589 (60%)
+epoch #51/250 - ptime: 26.27
+----- epoch #52 -----
+epoch#52 D_train batch#0/225 loss=0.2764201760292053
+epoch#52 D_train batch#100/225 loss=0.20206166803836823
+epoch#52 D_train batch#200/225 loss=0.18730024993419647
+
+Test set: Average loss: 1.3531, Accuracy: 2304/3589 (64%)
+epoch #52/250 - ptime: 25.89
+----- epoch #53 -----
+epoch#53 D_train batch#0/225 loss=0.19770319759845734
+epoch#53 D_train batch#100/225 loss=0.1809173971414566
+epoch#53 D_train batch#200/225 loss=0.26415976881980896
+
+Test set: Average loss: 1.4603, Accuracy: 2253/3589 (62%)
+epoch #53/250 - ptime: 25.98
+----- epoch #54 -----
+epoch#54 D_train batch#0/225 loss=0.3216271996498108
+epoch#54 D_train batch#100/225 loss=0.2982152998447418
+epoch#54 D_train batch#200/225 loss=0.32773417234420776
+
+Test set: Average loss: 1.6632, Accuracy: 2048/3589 (57%)
+epoch #54/250 - ptime: 25.79
+----- epoch #55 -----
+epoch#55 D_train batch#0/225 loss=0.1623717099428177
+epoch#55 D_train batch#100/225 loss=0.17972445487976074
+epoch#55 D_train batch#200/225 loss=0.22238558530807495
+
+Test set: Average loss: 1.4337, Accuracy: 2242/3589 (62%)
+epoch #55/250 - ptime: 25.82
+----- epoch #56 -----
+epoch#56 D_train batch#0/225 loss=0.2626511752605438
+epoch#56 D_train batch#100/225 loss=0.26697027683258057
+epoch#56 D_train batch#200/225 loss=0.3248756229877472
+
+Test set: Average loss: 1.5077, Accuracy: 2206/3589 (61%)
+epoch #56/250 - ptime: 25.47
+----- epoch #57 -----
+epoch#57 D_train batch#0/225 loss=0.2729020416736603
+epoch#57 D_train batch#100/225 loss=0.3983335494995117
+epoch#57 D_train batch#200/225 loss=0.3469226062297821
+
+Test set: Average loss: 1.4269, Accuracy: 2275/3589 (63%)
+epoch #57/250 - ptime: 25.43
+----- epoch #58 -----
+epoch#58 D_train batch#0/225 loss=0.22161400318145752
+epoch#58 D_train batch#100/225 loss=0.16859225928783417
+epoch#58 D_train batch#200/225 loss=0.20072999596595764
+
+Test set: Average loss: 1.3956, Accuracy: 2276/3589 (63%)
+epoch #58/250 - ptime: 25.84
+----- epoch #59 -----
+epoch#59 D_train batch#0/225 loss=0.142189159989357
+epoch#59 D_train batch#100/225 loss=0.3137884736061096
+epoch#59 D_train batch#200/225 loss=0.20701023936271667
+
+Test set: Average loss: 1.4980, Accuracy: 2261/3589 (62%)
+epoch #59/250 - ptime: 26.06
+----- epoch #60 -----
+epoch#60 D_train batch#0/225 loss=0.16290542483329773
+epoch#60 D_train batch#100/225 loss=0.29005134105682373
+epoch#60 D_train batch#200/225 loss=0.29848945140838623
+
+Test set: Average loss: 1.4408, Accuracy: 2255/3589 (62%)
+epoch #60/250 - ptime: 26.63
+----- epoch #61 -----
+epoch#61 D_train batch#0/225 loss=0.21317939460277557
+epoch#61 D_train batch#100/225 loss=0.17985549569129944
+epoch#61 D_train batch#200/225 loss=0.27246028184890747
+
+Test set: Average loss: 1.4939, Accuracy: 2213/3589 (61%)
+epoch #61/250 - ptime: 25.85
+----- epoch #62 -----
+epoch#62 D_train batch#0/225 loss=0.34452593326568604
+epoch#62 D_train batch#100/225 loss=0.2537172734737396
+epoch#62 D_train batch#200/225 loss=0.17731083929538727
+
+Test set: Average loss: 1.4937, Accuracy: 2296/3589 (63%)
+epoch #62/250 - ptime: 26.02
+----- epoch #63 -----
+epoch#63 D_train batch#0/225 loss=0.2613074779510498
+epoch#63 D_train batch#100/225 loss=0.12159312516450882
+epoch#63 D_train batch#200/225 loss=0.21432937681674957
+
+Test set: Average loss: 1.5217, Accuracy: 2198/3589 (61%)
+epoch #63/250 - ptime: 26.09
+----- epoch #64 -----
+epoch#64 D_train batch#0/225 loss=0.20804466307163239
+epoch#64 D_train batch#100/225 loss=0.20709222555160522
+epoch#64 D_train batch#200/225 loss=0.3034549057483673
+
+Test set: Average loss: 1.5636, Accuracy: 2186/3589 (60%)
+epoch #64/250 - ptime: 25.90
+----- epoch #65 -----
+epoch#65 D_train batch#0/225 loss=0.196931391954422
+epoch#65 D_train batch#100/225 loss=0.19815412163734436
+epoch#65 D_train batch#200/225 loss=0.15757128596305847
+
+Test set: Average loss: 1.5393, Accuracy: 2257/3589 (62%)
+epoch #65/250 - ptime: 25.87
+----- epoch #66 -----
+epoch#66 D_train batch#0/225 loss=0.27495989203453064
+epoch#66 D_train batch#100/225 loss=0.18172818422317505
+epoch#66 D_train batch#200/225 loss=0.14843878149986267
+
+Test set: Average loss: 1.6259, Accuracy: 2188/3589 (60%)
+epoch #66/250 - ptime: 26.41
+----- epoch #67 -----
+epoch#67 D_train batch#0/225 loss=0.11765527725219727
+epoch#67 D_train batch#100/225 loss=0.2030692994594574
+epoch#67 D_train batch#200/225 loss=0.1548517495393753
+
+Test set: Average loss: 1.4742, Accuracy: 2275/3589 (63%)
+epoch #67/250 - ptime: 26.26
+----- epoch #68 -----
+epoch#68 D_train batch#0/225 loss=0.2038927972316742
+epoch#68 D_train batch#100/225 loss=0.33787962794303894
+epoch#68 D_train batch#200/225 loss=0.2335471659898758
+
+Test set: Average loss: 1.6265, Accuracy: 2111/3589 (58%)
+epoch #68/250 - ptime: 26.01
+----- epoch #69 -----
+epoch#69 D_train batch#0/225 loss=0.15993407368659973
+epoch#69 D_train batch#100/225 loss=0.16387976706027985
+epoch#69 D_train batch#200/225 loss=0.34429091215133667
+
+Test set: Average loss: 1.4788, Accuracy: 2283/3589 (63%)
+epoch #69/250 - ptime: 28.34
+----- epoch #70 -----
+epoch#70 D_train batch#0/225 loss=0.2064390480518341
+epoch#70 D_train batch#100/225 loss=0.1243826225399971
+epoch#70 D_train batch#200/225 loss=0.17714624106884003
+
+Test set: Average loss: 1.4717, Accuracy: 2301/3589 (64%)
+epoch #70/250 - ptime: 26.39
+----- epoch #71 -----
+epoch#71 D_train batch#0/225 loss=0.1324019581079483
+epoch#71 D_train batch#100/225 loss=0.21832630038261414
+epoch#71 D_train batch#200/225 loss=0.30050942301750183
+
+Test set: Average loss: 1.5036, Accuracy: 2295/3589 (63%)
+epoch #71/250 - ptime: 25.71
+----- epoch #72 -----
+epoch#72 D_train batch#0/225 loss=0.18933461606502533
+epoch#72 D_train batch#100/225 loss=0.09579867124557495
+epoch#72 D_train batch#200/225 loss=0.13397476077079773
+
+Test set: Average loss: 1.4955, Accuracy: 2298/3589 (64%)
+epoch #72/250 - ptime: 26.15
+----- epoch #73 -----
+epoch#73 D_train batch#0/225 loss=0.25083857774734497
+epoch#73 D_train batch#100/225 loss=0.23711402714252472
+epoch#73 D_train batch#200/225 loss=0.29348376393318176
+
+Test set: Average loss: 1.4897, Accuracy: 2311/3589 (64%)
+epoch #73/250 - ptime: 26.34
+----- epoch #74 -----
+epoch#74 D_train batch#0/225 loss=0.18542678654193878
+epoch#74 D_train batch#100/225 loss=0.10237081348896027
+epoch#74 D_train batch#200/225 loss=0.19934608042240143
+
+Test set: Average loss: 1.5580, Accuracy: 2232/3589 (62%)
+epoch #74/250 - ptime: 26.07
+----- epoch #75 -----
+epoch#75 D_train batch#0/225 loss=0.20034140348434448
+epoch#75 D_train batch#100/225 loss=0.26424458622932434
+epoch#75 D_train batch#200/225 loss=0.1394786834716797
+
+Test set: Average loss: 1.4517, Accuracy: 2314/3589 (64%)
+epoch #75/250 - ptime: 26.11
+----- epoch #76 -----
+epoch#76 D_train batch#0/225 loss=0.26042884588241577
+epoch#76 D_train batch#100/225 loss=0.13925638794898987
+epoch#76 D_train batch#200/225 loss=0.1749638319015503
+
+Test set: Average loss: 1.6286, Accuracy: 2192/3589 (61%)
+epoch #76/250 - ptime: 26.32
+----- epoch #77 -----
+epoch#77 D_train batch#0/225 loss=0.15887382626533508
+epoch#77 D_train batch#100/225 loss=0.15413141250610352
+epoch#77 D_train batch#200/225 loss=0.262264609336853
+
+Test set: Average loss: 1.5160, Accuracy: 2282/3589 (63%)
+epoch #77/250 - ptime: 26.02
+----- epoch #78 -----
+epoch#78 D_train batch#0/225 loss=0.154253751039505
+epoch#78 D_train batch#100/225 loss=0.19236844778060913
+epoch#78 D_train batch#200/225 loss=0.11948618292808533
+
+Test set: Average loss: 1.4456, Accuracy: 2300/3589 (64%)
+epoch #78/250 - ptime: 25.83
+----- epoch #79 -----
+epoch#79 D_train batch#0/225 loss=0.13985495269298553
+epoch#79 D_train batch#100/225 loss=0.15064962208271027
+epoch#79 D_train batch#200/225 loss=0.15807048976421356
+
+Test set: Average loss: 1.5093, Accuracy: 2310/3589 (64%)
+epoch #79/250 - ptime: 26.01
+----- epoch #80 -----
+epoch#80 D_train batch#0/225 loss=0.1343676745891571
+epoch#80 D_train batch#100/225 loss=0.20470286905765533
+epoch#80 D_train batch#200/225 loss=0.16284900903701782
+
+Test set: Average loss: 1.5112, Accuracy: 2339/3589 (65%)
+epoch #80/250 - ptime: 26.61
+----- epoch #81 -----
+epoch#81 D_train batch#0/225 loss=0.17198458313941956
+epoch#81 D_train batch#100/225 loss=0.14936383068561554
+epoch#81 D_train batch#200/225 loss=0.15189699828624725
+
+Test set: Average loss: 1.5114, Accuracy: 2266/3589 (63%)
+epoch #81/250 - ptime: 27.19
+----- epoch #82 -----
+epoch#82 D_train batch#0/225 loss=0.059105273336172104
+epoch#82 D_train batch#100/225 loss=0.11045456677675247
+epoch#82 D_train batch#200/225 loss=0.17730794847011566
+
+Test set: Average loss: 1.5208, Accuracy: 2297/3589 (64%)
+epoch #82/250 - ptime: 102.88
+----- epoch #83 -----
+epoch#83 D_train batch#0/225 loss=0.1305123120546341
+epoch#83 D_train batch#100/225 loss=0.24838832020759583
+epoch#83 D_train batch#200/225 loss=0.20520856976509094
+
+Test set: Average loss: 1.4858, Accuracy: 2316/3589 (64%)
+epoch #83/250 - ptime: 33.28
+----- epoch #84 -----
+epoch#84 D_train batch#0/225 loss=0.1903277337551117
+epoch#84 D_train batch#100/225 loss=0.10670554637908936
+epoch#84 D_train batch#200/225 loss=0.22599996626377106
+
+Test set: Average loss: 1.4870, Accuracy: 2279/3589 (63%)
+epoch #84/250 - ptime: 32.11
+----- epoch #85 -----
+epoch#85 D_train batch#0/225 loss=0.14393971860408783
+epoch#85 D_train batch#100/225 loss=0.1615089774131775
+epoch#85 D_train batch#200/225 loss=0.22621886432170868
+
+Test set: Average loss: 1.5201, Accuracy: 2308/3589 (64%)
+epoch #85/250 - ptime: 31.96
+----- epoch #86 -----
+epoch#86 D_train batch#0/225 loss=0.2288016527891159
+epoch#86 D_train batch#100/225 loss=0.11829453706741333
+epoch#86 D_train batch#200/225 loss=0.14388272166252136
+
+Test set: Average loss: 1.5307, Accuracy: 2333/3589 (65%)
+epoch #86/250 - ptime: 32.33
+----- epoch #87 -----
+epoch#87 D_train batch#0/225 loss=0.10902446508407593
+epoch#87 D_train batch#100/225 loss=0.19059181213378906
+epoch#87 D_train batch#200/225 loss=0.1098809614777565
+
+Test set: Average loss: 1.5447, Accuracy: 2265/3589 (63%)
+epoch #87/250 - ptime: 31.60
+----- epoch #88 -----
+epoch#88 D_train batch#0/225 loss=0.18398766219615936
+epoch#88 D_train batch#100/225 loss=0.24211546778678894
+epoch#88 D_train batch#200/225 loss=0.1037556454539299
+
+Test set: Average loss: 1.5735, Accuracy: 2278/3589 (63%)
+epoch #88/250 - ptime: 32.53
+----- epoch #89 -----
+epoch#89 D_train batch#0/225 loss=0.10009045898914337
+epoch#89 D_train batch#100/225 loss=0.08682148903608322
+epoch#89 D_train batch#200/225 loss=0.17677032947540283
+
+Test set: Average loss: 1.5201, Accuracy: 2354/3589 (65%)
+epoch #89/250 - ptime: 32.13
+----- epoch #90 -----
+epoch#90 D_train batch#0/225 loss=0.16137799620628357
+epoch#90 D_train batch#100/225 loss=0.08023355156183243
+epoch#90 D_train batch#200/225 loss=0.1557079702615738
+
+Test set: Average loss: 1.5048, Accuracy: 2335/3589 (65%)
+epoch #90/250 - ptime: 31.71
+----- epoch #91 -----
+epoch#91 D_train batch#0/225 loss=0.05118122324347496
+epoch#91 D_train batch#100/225 loss=0.17481032013893127
+epoch#91 D_train batch#200/225 loss=0.14952996373176575
+
+Test set: Average loss: 1.5815, Accuracy: 2279/3589 (63%)
+epoch #91/250 - ptime: 32.33
+----- epoch #92 -----
+epoch#92 D_train batch#0/225 loss=0.12493915110826492
+epoch#92 D_train batch#100/225 loss=0.055365774780511856
+epoch#92 D_train batch#200/225 loss=0.08453217148780823
+
+Test set: Average loss: 1.5601, Accuracy: 2353/3589 (65%)
+epoch #92/250 - ptime: 32.14
+----- epoch #93 -----
+epoch#93 D_train batch#0/225 loss=0.11979526281356812
+epoch#93 D_train batch#100/225 loss=0.07096734642982483
+epoch#93 D_train batch#200/225 loss=0.12290427833795547
+
+Test set: Average loss: 1.5279, Accuracy: 2368/3589 (65%)
+epoch #93/250 - ptime: 32.12
+----- epoch #94 -----
+epoch#94 D_train batch#0/225 loss=0.09990696609020233
+epoch#94 D_train batch#100/225 loss=0.07892653346061707
+epoch#94 D_train batch#200/225 loss=0.14440979063510895
+
+Test set: Average loss: 1.5658, Accuracy: 2373/3589 (66%)
+epoch #94/250 - ptime: 32.46
+----- epoch #95 -----
+epoch#95 D_train batch#0/225 loss=0.07783499360084534
+epoch#95 D_train batch#100/225 loss=0.07117177546024323
+epoch#95 D_train batch#200/225 loss=0.11051866412162781
+
+Test set: Average loss: 1.5544, Accuracy: 2353/3589 (65%)
+epoch #95/250 - ptime: 32.14
+----- epoch #96 -----
+epoch#96 D_train batch#0/225 loss=0.09361933171749115
+epoch#96 D_train batch#100/225 loss=0.1371348351240158
+epoch#96 D_train batch#200/225 loss=0.113498255610466
+
+Test set: Average loss: 1.6225, Accuracy: 2273/3589 (63%)
+epoch #96/250 - ptime: 32.44
+----- epoch #97 -----
+epoch#97 D_train batch#0/225 loss=0.07777510583400726
+epoch#97 D_train batch#100/225 loss=0.051829684525728226
+epoch#97 D_train batch#200/225 loss=0.11180634796619415
+
+Test set: Average loss: 1.5603, Accuracy: 2354/3589 (65%)
+epoch #97/250 - ptime: 32.32
+----- epoch #98 -----
+epoch#98 D_train batch#0/225 loss=0.09601615369319916
+epoch#98 D_train batch#100/225 loss=0.10016857087612152
+epoch#98 D_train batch#200/225 loss=0.08349893242120743
+
+Test set: Average loss: 1.5952, Accuracy: 2379/3589 (66%)
+epoch #98/250 - ptime: 51.32
+----- epoch #99 -----
+epoch#99 D_train batch#0/225 loss=0.11216992139816284
+epoch#99 D_train batch#100/225 loss=0.0467463955283165
+epoch#99 D_train batch#200/225 loss=0.04855973646044731
+
+Test set: Average loss: 1.5545, Accuracy: 2344/3589 (65%)
+epoch #99/250 - ptime: 32.67
+----- epoch #100 -----
+epoch#100 D_train batch#0/225 loss=0.043914422392845154
+epoch#100 D_train batch#100/225 loss=0.05995507538318634
+epoch#100 D_train batch#200/225 loss=0.01664101332426071
+
+Test set: Average loss: 1.5854, Accuracy: 2345/3589 (65%)
+epoch #100/250 - ptime: 32.01
+----- epoch #101 -----
+epoch#101 D_train batch#0/225 loss=0.05834097042679787
+epoch#101 D_train batch#100/225 loss=0.05797913298010826
+epoch#101 D_train batch#200/225 loss=0.049628958106040955
+
+Test set: Average loss: 1.6831, Accuracy: 2317/3589 (64%)
+epoch #101/250 - ptime: 31.91
+----- epoch #102 -----
+epoch#102 D_train batch#0/225 loss=0.03154316917061806
+epoch#102 D_train batch#100/225 loss=0.025912277400493622
+epoch#102 D_train batch#200/225 loss=0.06956835091114044
+
+Test set: Average loss: 1.6430, Accuracy: 2338/3589 (65%)
+epoch #102/250 - ptime: 32.45
+----- epoch #103 -----
+epoch#103 D_train batch#0/225 loss=0.04388493299484253
+epoch#103 D_train batch#100/225 loss=0.0352015495300293
+epoch#103 D_train batch#200/225 loss=0.06846670806407928
+
+Test set: Average loss: 1.6094, Accuracy: 2368/3589 (65%)
+epoch #103/250 - ptime: 32.67
+----- epoch #104 -----
+epoch#104 D_train batch#0/225 loss=0.04774496704339981
+epoch#104 D_train batch#100/225 loss=0.05908292904496193
+epoch#104 D_train batch#200/225 loss=0.07380422949790955
+
+Test set: Average loss: 1.6043, Accuracy: 2365/3589 (65%)
+epoch #104/250 - ptime: 32.53
+----- epoch #105 -----
+epoch#105 D_train batch#0/225 loss=0.03664279356598854
+epoch#105 D_train batch#100/225 loss=0.05348719656467438
+epoch#105 D_train batch#200/225 loss=0.09014078229665756
+
+Test set: Average loss: 1.6163, Accuracy: 2387/3589 (66%)
+epoch #105/250 - ptime: 43.25
+----- epoch #106 -----
+epoch#106 D_train batch#0/225 loss=0.025147678330540657
+epoch#106 D_train batch#100/225 loss=0.04087222367525101
+epoch#106 D_train batch#200/225 loss=0.05313980579376221
+
+Test set: Average loss: 1.6318, Accuracy: 2377/3589 (66%)
+epoch #106/250 - ptime: 37.50
+----- epoch #107 -----
+epoch#107 D_train batch#0/225 loss=0.05864644795656204
+epoch#107 D_train batch#100/225 loss=0.08453425765037537
+epoch#107 D_train batch#200/225 loss=0.06360401213169098
+
+Test set: Average loss: 1.6058, Accuracy: 2380/3589 (66%)
+epoch #107/250 - ptime: 32.18
+----- epoch #108 -----
+epoch#108 D_train batch#0/225 loss=0.01983063668012619
+epoch#108 D_train batch#100/225 loss=0.01639144867658615
+epoch#108 D_train batch#200/225 loss=0.02705860137939453
+
+Test set: Average loss: 1.6054, Accuracy: 2403/3589 (66%)
+epoch #108/250 - ptime: 32.84
+----- epoch #109 -----
+epoch#109 D_train batch#0/225 loss=0.0455421581864357
+epoch#109 D_train batch#100/225 loss=0.06443030387163162
+epoch#109 D_train batch#200/225 loss=0.05418172478675842
+
+Test set: Average loss: 1.6783, Accuracy: 2366/3589 (65%)
+epoch #109/250 - ptime: 32.73
+----- epoch #110 -----
+epoch#110 D_train batch#0/225 loss=0.029955843463540077
+epoch#110 D_train batch#100/225 loss=0.03701988607645035
+epoch#110 D_train batch#200/225 loss=0.03385970741510391
+
+Test set: Average loss: 1.6521, Accuracy: 2383/3589 (66%)
+epoch #110/250 - ptime: 32.78
+----- epoch #111 -----
+epoch#111 D_train batch#0/225 loss=0.040758997201919556
+epoch#111 D_train batch#100/225 loss=0.03138557821512222
+epoch#111 D_train batch#200/225 loss=0.09979160130023956
+
+Test set: Average loss: 1.6669, Accuracy: 2360/3589 (65%)
+epoch #111/250 - ptime: 32.25
+----- epoch #112 -----
+epoch#112 D_train batch#0/225 loss=0.05082288384437561
+epoch#112 D_train batch#100/225 loss=0.031009716913104057
+epoch#112 D_train batch#200/225 loss=0.037397898733615875
+
+Test set: Average loss: 1.6268, Accuracy: 2400/3589 (66%)
+epoch #112/250 - ptime: 31.94
+----- epoch #113 -----
+epoch#113 D_train batch#0/225 loss=0.014806821942329407
+epoch#113 D_train batch#100/225 loss=0.05678362399339676
+epoch#113 D_train batch#200/225 loss=0.026676928624510765
+
+Test set: Average loss: 1.6477, Accuracy: 2389/3589 (66%)
+epoch #113/250 - ptime: 32.48
+----- epoch #114 -----
+epoch#114 D_train batch#0/225 loss=0.07659224420785904
+epoch#114 D_train batch#100/225 loss=0.04436241835355759
+epoch#114 D_train batch#200/225 loss=0.03686269745230675
+
+Test set: Average loss: 1.6942, Accuracy: 2346/3589 (65%)
+epoch #114/250 - ptime: 32.34
+----- epoch #115 -----
+epoch#115 D_train batch#0/225 loss=0.03142613545060158
+epoch#115 D_train batch#100/225 loss=0.02840748429298401
+epoch#115 D_train batch#200/225 loss=0.029852639883756638
+
+Test set: Average loss: 1.6466, Accuracy: 2391/3589 (66%)
+epoch #115/250 - ptime: 49.94
+----- epoch #116 -----
+epoch#116 D_train batch#0/225 loss=0.03516814112663269
+epoch#116 D_train batch#100/225 loss=0.03862769156694412
+epoch#116 D_train batch#200/225 loss=0.02024802751839161
+
+Test set: Average loss: 1.5933, Accuracy: 2433/3589 (67%)
+epoch #116/250 - ptime: 32.33
+----- epoch #117 -----
+epoch#117 D_train batch#0/225 loss=0.09807080030441284
+epoch#117 D_train batch#100/225 loss=0.08012843132019043
+epoch#117 D_train batch#200/225 loss=0.032788489013910294
+
+Test set: Average loss: 1.6304, Accuracy: 2407/3589 (67%)
+epoch #117/250 - ptime: 32.92
+----- epoch #118 -----
+epoch#118 D_train batch#0/225 loss=0.04091758280992508
+epoch#118 D_train batch#100/225 loss=0.02126789279282093
+epoch#118 D_train batch#200/225 loss=0.019587690010666847
+
+Test set: Average loss: 1.6283, Accuracy: 2411/3589 (67%)
+epoch #118/250 - ptime: 32.08
+----- epoch #119 -----
+epoch#119 D_train batch#0/225 loss=0.02627604268491268
+epoch#119 D_train batch#100/225 loss=0.03579815477132797
+epoch#119 D_train batch#200/225 loss=0.015555046498775482
+
+Test set: Average loss: 1.6821, Accuracy: 2374/3589 (66%)
+epoch #119/250 - ptime: 31.15
+----- epoch #120 -----
+epoch#120 D_train batch#0/225 loss=0.0389777310192585
+epoch#120 D_train batch#100/225 loss=0.009131059050559998
+epoch#120 D_train batch#200/225 loss=0.0407833494246006
+
+Test set: Average loss: 1.6577, Accuracy: 2399/3589 (66%)
+epoch #120/250 - ptime: 31.32
+----- epoch #121 -----
+epoch#121 D_train batch#0/225 loss=0.022239694371819496
+epoch#121 D_train batch#100/225 loss=0.023453129455447197
+epoch#121 D_train batch#200/225 loss=0.022592641413211823
+
+Test set: Average loss: 1.6564, Accuracy: 2393/3589 (66%)
+epoch #121/250 - ptime: 31.57
+----- epoch #122 -----
+epoch#122 D_train batch#0/225 loss=0.01727607101202011
+epoch#122 D_train batch#100/225 loss=0.025014299899339676
+epoch#122 D_train batch#200/225 loss=0.031014852225780487
+
+Test set: Average loss: 1.6299, Accuracy: 2424/3589 (67%)
+epoch #122/250 - ptime: 31.08
+----- epoch #123 -----
+epoch#123 D_train batch#0/225 loss=0.010388799011707306
+epoch#123 D_train batch#100/225 loss=0.009110813960433006
+epoch#123 D_train batch#200/225 loss=0.030052276328206062
+
+Test set: Average loss: 1.6505, Accuracy: 2425/3589 (67%)
+epoch #123/250 - ptime: 31.47
+----- epoch #124 -----
+epoch#124 D_train batch#0/225 loss=0.03148826211690903
+epoch#124 D_train batch#100/225 loss=0.03438475355505943
+epoch#124 D_train batch#200/225 loss=0.009925538673996925
+
+Test set: Average loss: 1.6149, Accuracy: 2426/3589 (67%)
+epoch #124/250 - ptime: 31.05
+----- epoch #125 -----
+epoch#125 D_train batch#0/225 loss=0.005044229328632355
+epoch#125 D_train batch#100/225 loss=0.029554175212979317
+epoch#125 D_train batch#200/225 loss=0.09062509983778
+
+Test set: Average loss: 1.6248, Accuracy: 2424/3589 (67%)
+epoch #125/250 - ptime: 31.12
+----- epoch #126 -----
+epoch#126 D_train batch#0/225 loss=0.007718728855252266
+epoch#126 D_train batch#100/225 loss=0.012114576995372772
+epoch#126 D_train batch#200/225 loss=0.016128797084093094
+
+Test set: Average loss: 1.6418, Accuracy: 2400/3589 (66%)
+epoch #126/250 - ptime: 31.60
+----- epoch #127 -----
+epoch#127 D_train batch#0/225 loss=0.010289117693901062
+epoch#127 D_train batch#100/225 loss=0.05042802169919014
+epoch#127 D_train batch#200/225 loss=0.02415088750422001
+
+Test set: Average loss: 1.6416, Accuracy: 2416/3589 (67%)
+epoch #127/250 - ptime: 31.47
+----- epoch #128 -----
+epoch#128 D_train batch#0/225 loss=0.007995206862688065
+epoch#128 D_train batch#100/225 loss=0.03192902356386185
+epoch#128 D_train batch#200/225 loss=0.034101054072380066
+
+Test set: Average loss: 1.6649, Accuracy: 2421/3589 (67%)
+epoch #128/250 - ptime: 31.39
+----- epoch #129 -----
+epoch#129 D_train batch#0/225 loss=0.00299999862909317
+epoch#129 D_train batch#100/225 loss=0.0142972432076931
+epoch#129 D_train batch#200/225 loss=0.004589583724737167
+
+Test set: Average loss: 1.6566, Accuracy: 2424/3589 (67%)
+epoch #129/250 - ptime: 31.89
+----- epoch #130 -----
+epoch#130 D_train batch#0/225 loss=0.03782827407121658
+epoch#130 D_train batch#100/225 loss=0.03000572696328163
+epoch#130 D_train batch#200/225 loss=0.012551922351121902
+
+Test set: Average loss: 1.6461, Accuracy: 2412/3589 (67%)
+epoch #130/250 - ptime: 31.47
+----- epoch #131 -----
+epoch#131 D_train batch#0/225 loss=0.011284127831459045
+epoch#131 D_train batch#100/225 loss=0.005534246563911438
+epoch#131 D_train batch#200/225 loss=0.006137669086456299
+
+Test set: Average loss: 1.7002, Accuracy: 2398/3589 (66%)
+epoch #131/250 - ptime: 31.10
+----- epoch #132 -----
+epoch#132 D_train batch#0/225 loss=0.004295557737350464
+epoch#132 D_train batch#100/225 loss=0.021568141877651215
+epoch#132 D_train batch#200/225 loss=0.030679533258080482
+
+Test set: Average loss: 1.6081, Accuracy: 2426/3589 (67%)
+epoch #132/250 - ptime: 56.68
+----- epoch #133 -----
+epoch#133 D_train batch#0/225 loss=0.016942592337727547
+epoch#133 D_train batch#100/225 loss=0.01808181032538414
+epoch#133 D_train batch#200/225 loss=0.012749146670103073
+
+Test set: Average loss: 1.6313, Accuracy: 2439/3589 (67%)
+epoch #133/250 - ptime: 35.99
+----- epoch #134 -----
+epoch#134 D_train batch#0/225 loss=0.03171021491289139
+epoch#134 D_train batch#100/225 loss=0.08010822534561157
+epoch#134 D_train batch#200/225 loss=0.05804886668920517
+
+Test set: Average loss: 1.6391, Accuracy: 2438/3589 (67%)
+epoch #134/250 - ptime: 31.36
+----- epoch #135 -----
+epoch#135 D_train batch#0/225 loss=0.00855642557144165
+epoch#135 D_train batch#100/225 loss=0.0153033547103405
+epoch#135 D_train batch#200/225 loss=0.018143992871046066
+
+Test set: Average loss: 1.6276, Accuracy: 2438/3589 (67%)
+epoch #135/250 - ptime: 31.42
+----- epoch #136 -----
+epoch#136 D_train batch#0/225 loss=0.024677447974681854
+epoch#136 D_train batch#100/225 loss=0.011715482920408249
+epoch#136 D_train batch#200/225 loss=0.016070939600467682
+
+Test set: Average loss: 1.6054, Accuracy: 2422/3589 (67%)
+epoch #136/250 - ptime: 31.40
+----- epoch #137 -----
+epoch#137 D_train batch#0/225 loss=0.004510663449764252
+epoch#137 D_train batch#100/225 loss=0.018816128373146057
+epoch#137 D_train batch#200/225 loss=0.016849135980010033
+
+Test set: Average loss: 1.6691, Accuracy: 2432/3589 (67%)
+epoch #137/250 - ptime: 31.25
+----- epoch #138 -----
+epoch#138 D_train batch#0/225 loss=0.010629607364535332
+epoch#138 D_train batch#100/225 loss=0.00943436473608017
+epoch#138 D_train batch#200/225 loss=0.009101524949073792
+
+Test set: Average loss: 1.6483, Accuracy: 2412/3589 (67%)
+epoch #138/250 - ptime: 31.42
+----- epoch #139 -----
+epoch#139 D_train batch#0/225 loss=0.011856243014335632
+epoch#139 D_train batch#100/225 loss=0.0024578049778938293
+epoch#139 D_train batch#200/225 loss=0.00855359248816967
+
+Test set: Average loss: 1.6305, Accuracy: 2442/3589 (68%)
+epoch #139/250 - ptime: 30.87
+----- epoch #140 -----
+epoch#140 D_train batch#0/225 loss=0.030529171228408813
+epoch#140 D_train batch#100/225 loss=0.012621093541383743
+epoch#140 D_train batch#200/225 loss=0.00773191824555397
+
+Test set: Average loss: 1.6023, Accuracy: 2466/3589 (68%)
+epoch #140/250 - ptime: 30.83
+----- epoch #141 -----
+epoch#141 D_train batch#0/225 loss=0.011063037440180779
+epoch#141 D_train batch#100/225 loss=0.008027656003832817
+epoch#141 D_train batch#200/225 loss=0.01802310347557068
+
+Test set: Average loss: 1.6278, Accuracy: 2443/3589 (68%)
+epoch #141/250 - ptime: 31.28
+----- epoch #142 -----
+epoch#142 D_train batch#0/225 loss=0.03913309425115585
+epoch#142 D_train batch#100/225 loss=0.017111394554376602
+epoch#142 D_train batch#200/225 loss=0.01498577930033207
+
+Test set: Average loss: 1.6566, Accuracy: 2430/3589 (67%)
+epoch #142/250 - ptime: 31.38
+----- epoch #143 -----
+epoch#143 D_train batch#0/225 loss=0.01499212346971035
+epoch#143 D_train batch#100/225 loss=0.020856313407421112
+epoch#143 D_train batch#200/225 loss=0.004603227600455284
+
+Test set: Average loss: 1.6008, Accuracy: 2455/3589 (68%)
+epoch #143/250 - ptime: 31.44
+----- epoch #144 -----
+epoch#144 D_train batch#0/225 loss=0.019322745501995087
+epoch#144 D_train batch#100/225 loss=0.01545478031039238
+epoch#144 D_train batch#200/225 loss=0.017238181084394455
+
+Test set: Average loss: 1.6096, Accuracy: 2432/3589 (67%)
+epoch #144/250 - ptime: 31.27
+----- epoch #145 -----
+epoch#145 D_train batch#0/225 loss=0.008207913488149643
+epoch#145 D_train batch#100/225 loss=0.010518085211515427
+epoch#145 D_train batch#200/225 loss=0.01826593652367592
+
+Test set: Average loss: 1.6446, Accuracy: 2447/3589 (68%)
+epoch #145/250 - ptime: 30.97
+----- epoch #146 -----
+epoch#146 D_train batch#0/225 loss=0.027403855696320534
+epoch#146 D_train batch#100/225 loss=0.013099431991577148
+epoch#146 D_train batch#200/225 loss=0.005448758602142334
+
+Test set: Average loss: 1.6131, Accuracy: 2457/3589 (68%)
+epoch #146/250 - ptime: 80.57
+----- epoch #147 -----
+epoch#147 D_train batch#0/225 loss=0.004664868116378784
+epoch#147 D_train batch#100/225 loss=0.009460065513849258
+epoch#147 D_train batch#200/225 loss=0.003812059760093689
+
+Test set: Average loss: 1.6563, Accuracy: 2428/3589 (67%)
+epoch #147/250 - ptime: 32.32
+----- epoch #148 -----
+epoch#148 D_train batch#0/225 loss=0.006309036165475845
+epoch#148 D_train batch#100/225 loss=0.00971040315926075
+epoch#148 D_train batch#200/225 loss=0.0030115917325019836
+
+Test set: Average loss: 1.6760, Accuracy: 2439/3589 (67%)
+epoch #148/250 - ptime: 47.32
+----- epoch #149 -----
+epoch#149 D_train batch#0/225 loss=0.02172563411295414
+epoch#149 D_train batch#100/225 loss=0.00902213528752327
+epoch#149 D_train batch#200/225 loss=0.002703458070755005
+
+Test set: Average loss: 1.6176, Accuracy: 2451/3589 (68%)
+epoch #149/250 - ptime: 31.85
+----- epoch #150 -----
+epoch#150 D_train batch#0/225 loss=0.005754977464675903
+epoch#150 D_train batch#100/225 loss=0.0016280226409435272
+epoch#150 D_train batch#200/225 loss=0.004618309438228607
+
+Test set: Average loss: 1.6581, Accuracy: 2417/3589 (67%)
+epoch #150/250 - ptime: 31.22
+----- epoch #151 -----
+epoch#151 D_train batch#0/225 loss=0.0021443143486976624
+epoch#151 D_train batch#100/225 loss=0.010457154363393784
+epoch#151 D_train batch#200/225 loss=0.0026026740670204163
+
+Test set: Average loss: 1.6245, Accuracy: 2435/3589 (67%)
+epoch #151/250 - ptime: 31.49
+----- epoch #152 -----
+epoch#152 D_train batch#0/225 loss=0.004898432642221451
+epoch#152 D_train batch#100/225 loss=0.0355774350464344
+epoch#152 D_train batch#200/225 loss=0.01136048324406147
+
+Test set: Average loss: 1.6354, Accuracy: 2429/3589 (67%)
+epoch #152/250 - ptime: 30.84
+----- epoch #153 -----
+epoch#153 D_train batch#0/225 loss=0.005545228719711304
+epoch#153 D_train batch#100/225 loss=0.002765342593193054
+epoch#153 D_train batch#200/225 loss=0.020926501601934433
+
+Test set: Average loss: 1.5986, Accuracy: 2425/3589 (67%)
+epoch #153/250 - ptime: 31.47
+----- epoch #154 -----
+epoch#154 D_train batch#0/225 loss=0.0059903450310230255
+epoch#154 D_train batch#100/225 loss=0.002939123660326004
+epoch#154 D_train batch#200/225 loss=0.019702738150954247
+
+Test set: Average loss: 1.6305, Accuracy: 2405/3589 (67%)
+epoch #154/250 - ptime: 31.25
+----- epoch #155 -----
+epoch#155 D_train batch#0/225 loss=0.002665206789970398
+epoch#155 D_train batch#100/225 loss=0.004837926477193832
+epoch#155 D_train batch#200/225 loss=0.012014240026473999
+
+Test set: Average loss: 1.6052, Accuracy: 2446/3589 (68%)
+epoch #155/250 - ptime: 31.33
+----- epoch #156 -----
+epoch#156 D_train batch#0/225 loss=0.0013385601341724396
+epoch#156 D_train batch#100/225 loss=0.0020809248089790344
+epoch#156 D_train batch#200/225 loss=0.006586132571101189
+
+Test set: Average loss: 1.5973, Accuracy: 2452/3589 (68%)
+epoch #156/250 - ptime: 31.24
+----- epoch #157 -----
+epoch#157 D_train batch#0/225 loss=0.008211344480514526
+epoch#157 D_train batch#100/225 loss=0.0013218149542808533
+epoch#157 D_train batch#200/225 loss=0.005127910524606705
+
+Test set: Average loss: 1.5576, Accuracy: 2474/3589 (68%)
+epoch #157/250 - ptime: 31.09
+----- epoch #158 -----
+epoch#158 D_train batch#0/225 loss=0.006875518709421158
+epoch#158 D_train batch#100/225 loss=0.012546584010124207
+epoch#158 D_train batch#200/225 loss=0.012219278141856194
+
+Test set: Average loss: 1.6432, Accuracy: 2436/3589 (67%)
+epoch #158/250 - ptime: 45.75
+----- epoch #159 -----
+epoch#159 D_train batch#0/225 loss=0.03802456706762314
+epoch#159 D_train batch#100/225 loss=0.0034658610820770264
+epoch#159 D_train batch#200/225 loss=0.007909290492534637
+
+Test set: Average loss: 1.6231, Accuracy: 2430/3589 (67%)
+epoch #159/250 - ptime: 30.13
+----- epoch #160 -----
+epoch#160 D_train batch#0/225 loss=0.002298779785633087
+epoch#160 D_train batch#100/225 loss=0.02293826825916767
+epoch#160 D_train batch#200/225 loss=0.015784455463290215
+
+Test set: Average loss: 1.5885, Accuracy: 2425/3589 (67%)
+epoch #160/250 - ptime: 30.67
+----- epoch #161 -----
+epoch#161 D_train batch#0/225 loss=0.010448072105646133
+epoch#161 D_train batch#100/225 loss=0.02407875657081604
+epoch#161 D_train batch#200/225 loss=0.006976805627346039
+
+Test set: Average loss: 1.6579, Accuracy: 2442/3589 (68%)
+epoch #161/250 - ptime: 31.09
+----- epoch #162 -----
+epoch#162 D_train batch#0/225 loss=0.03863648325204849
+epoch#162 D_train batch#100/225 loss=0.003890741616487503
+epoch#162 D_train batch#200/225 loss=0.0016527064144611359
+
+Test set: Average loss: 1.6077, Accuracy: 2426/3589 (67%)
+epoch #162/250 - ptime: 31.48
+----- epoch #163 -----
+epoch#163 D_train batch#0/225 loss=0.014966264367103577
+epoch#163 D_train batch#100/225 loss=0.008456546813249588
+epoch#163 D_train batch#200/225 loss=0.01869875192642212
+
+Test set: Average loss: 1.6348, Accuracy: 2419/3589 (67%)
+epoch #163/250 - ptime: 31.24
+----- epoch #164 -----
+epoch#164 D_train batch#0/225 loss=0.011060860008001328
+epoch#164 D_train batch#100/225 loss=0.0235608983784914
+epoch#164 D_train batch#200/225 loss=0.001440640538930893
+
+Test set: Average loss: 1.5907, Accuracy: 2447/3589 (68%)
+epoch #164/250 - ptime: 31.36
+----- epoch #165 -----
+epoch#165 D_train batch#0/225 loss=0.0035155974328517914
+epoch#165 D_train batch#100/225 loss=0.007449891418218613
+epoch#165 D_train batch#200/225 loss=0.009671555832028389
+
+Test set: Average loss: 1.6173, Accuracy: 2445/3589 (68%)
+epoch #165/250 - ptime: 42.00
+----- epoch #166 -----
+epoch#166 D_train batch#0/225 loss=0.014824887737631798
+epoch#166 D_train batch#100/225 loss=0.00921643152832985
+epoch#166 D_train batch#200/225 loss=0.00879376009106636
+
+Test set: Average loss: 1.5871, Accuracy: 2450/3589 (68%)
+epoch #166/250 - ptime: 37.03
+----- epoch #167 -----
+epoch#167 D_train batch#0/225 loss=0.0019633732736110687
+epoch#167 D_train batch#100/225 loss=0.012095429003238678
+epoch#167 D_train batch#200/225 loss=0.028077522292733192
+
+Test set: Average loss: 1.6024, Accuracy: 2455/3589 (68%)
+epoch #167/250 - ptime: 31.06
+----- epoch #168 -----
+epoch#168 D_train batch#0/225 loss=0.009786007925868034
+epoch#168 D_train batch#100/225 loss=0.008092598989605904
+epoch#168 D_train batch#200/225 loss=0.013011213392019272
+
+Test set: Average loss: 1.5747, Accuracy: 2444/3589 (68%)
+epoch #168/250 - ptime: 30.91
+----- epoch #169 -----
+epoch#169 D_train batch#0/225 loss=0.012676378712058067
+epoch#169 D_train batch#100/225 loss=0.0021792352199554443
+epoch#169 D_train batch#200/225 loss=0.003928568214178085
+
+Test set: Average loss: 1.6086, Accuracy: 2443/3589 (68%)
+epoch #169/250 - ptime: 31.08
+----- epoch #170 -----
+epoch#170 D_train batch#0/225 loss=0.007418099790811539
+epoch#170 D_train batch#100/225 loss=0.018874119967222214
+epoch#170 D_train batch#200/225 loss=0.007083345204591751
+
+Test set: Average loss: 1.6334, Accuracy: 2426/3589 (67%)
+epoch #170/250 - ptime: 30.82
+----- epoch #171 -----
+epoch#171 D_train batch#0/225 loss=0.0034674182534217834
+epoch#171 D_train batch#100/225 loss=0.0022887662053108215
+epoch#171 D_train batch#200/225 loss=0.012678584083914757
+
+Test set: Average loss: 1.5729, Accuracy: 2451/3589 (68%)
+epoch #171/250 - ptime: 31.34
+----- epoch #172 -----
+epoch#172 D_train batch#0/225 loss=0.004271835088729858
+epoch#172 D_train batch#100/225 loss=0.01685159280896187
+epoch#172 D_train batch#200/225 loss=0.0015717782080173492
+
+Test set: Average loss: 1.5588, Accuracy: 2453/3589 (68%)
+epoch #172/250 - ptime: 31.23
+----- epoch #173 -----
+epoch#173 D_train batch#0/225 loss=0.00200657919049263
+epoch#173 D_train batch#100/225 loss=0.0018643736839294434
+epoch#173 D_train batch#200/225 loss=0.002536337822675705
+
+Test set: Average loss: 1.5879, Accuracy: 2466/3589 (68%)
+epoch #173/250 - ptime: 31.58
+----- epoch #174 -----
+epoch#174 D_train batch#0/225 loss=0.0034765712916851044
+epoch#174 D_train batch#100/225 loss=0.0017360858619213104
+epoch#174 D_train batch#200/225 loss=0.007902147248387337
+
+Test set: Average loss: 1.5813, Accuracy: 2436/3589 (67%)
+epoch #174/250 - ptime: 31.30
+----- epoch #175 -----
+epoch#175 D_train batch#0/225 loss=0.004189271479845047
+epoch#175 D_train batch#100/225 loss=0.005870768800377846
+epoch#175 D_train batch#200/225 loss=0.010449927300214767
+
+Test set: Average loss: 1.6200, Accuracy: 2448/3589 (68%)
+epoch #175/250 - ptime: 31.01
+----- epoch #176 -----
+epoch#176 D_train batch#0/225 loss=0.0015705637633800507
+epoch#176 D_train batch#100/225 loss=0.004561558365821838
+epoch#176 D_train batch#200/225 loss=0.006671609356999397
+
+Test set: Average loss: 1.5776, Accuracy: 2460/3589 (68%)
+epoch #176/250 - ptime: 31.37
+----- epoch #177 -----
+epoch#177 D_train batch#0/225 loss=0.001591518521308899
+epoch#177 D_train batch#100/225 loss=0.010499647818505764
+epoch#177 D_train batch#200/225 loss=0.011626845225691795
+
+Test set: Average loss: 1.5755, Accuracy: 2459/3589 (68%)
+epoch #177/250 - ptime: 31.15
+----- epoch #178 -----
+epoch#178 D_train batch#0/225 loss=0.0018011108040809631
+epoch#178 D_train batch#100/225 loss=0.011947711929678917
+epoch#178 D_train batch#200/225 loss=0.0164354108273983
+
+Test set: Average loss: 1.5975, Accuracy: 2411/3589 (67%)
+epoch #178/250 - ptime: 31.01
+----- epoch #179 -----
+epoch#179 D_train batch#0/225 loss=0.0037231557071208954
+epoch#179 D_train batch#100/225 loss=0.0021998845040798187
+epoch#179 D_train batch#200/225 loss=0.0025173835456371307
+
+Test set: Average loss: 1.5760, Accuracy: 2442/3589 (68%)
+epoch #179/250 - ptime: 31.75
+----- epoch #180 -----
+epoch#180 D_train batch#0/225 loss=0.0019081160426139832
+epoch#180 D_train batch#100/225 loss=0.005491044372320175
+epoch#180 D_train batch#200/225 loss=0.013731252402067184
+
+Test set: Average loss: 1.5799, Accuracy: 2445/3589 (68%)
+epoch #180/250 - ptime: 31.02
+----- epoch #181 -----
+epoch#181 D_train batch#0/225 loss=0.0027846992015838623
+epoch#181 D_train batch#100/225 loss=0.008141286671161652
+epoch#181 D_train batch#200/225 loss=0.005271296948194504
+
+Test set: Average loss: 1.5832, Accuracy: 2461/3589 (68%)
+epoch #181/250 - ptime: 30.80
+----- epoch #182 -----
+epoch#182 D_train batch#0/225 loss=0.0061979033052921295
+epoch#182 D_train batch#100/225 loss=0.011854711920022964
+epoch#182 D_train batch#200/225 loss=0.003055315464735031
+
+Test set: Average loss: 1.6029, Accuracy: 2422/3589 (67%)
+epoch #182/250 - ptime: 31.15
+----- epoch #183 -----
+epoch#183 D_train batch#0/225 loss=0.0015868432819843292
+epoch#183 D_train batch#100/225 loss=0.020787177607417107
+epoch#183 D_train batch#200/225 loss=0.004029091447591782
+
+Test set: Average loss: 1.5844, Accuracy: 2417/3589 (67%)
+epoch #183/250 - ptime: 47.60
+----- epoch #184 -----
+epoch#184 D_train batch#0/225 loss=0.005050646141171455
+epoch#184 D_train batch#100/225 loss=0.003052201122045517
+epoch#184 D_train batch#200/225 loss=0.008439982309937477
+
+Test set: Average loss: 1.5728, Accuracy: 2481/3589 (69%)
+epoch #184/250 - ptime: 32.56
+----- epoch #185 -----
+epoch#185 D_train batch#0/225 loss=0.004329968243837357
+epoch#185 D_train batch#100/225 loss=0.006364697590470314
+epoch#185 D_train batch#200/225 loss=0.0010433383285999298
+
+Test set: Average loss: 1.5875, Accuracy: 2457/3589 (68%)
+epoch #185/250 - ptime: 41.62
+----- epoch #186 -----
+epoch#186 D_train batch#0/225 loss=0.002957738935947418
+epoch#186 D_train batch#100/225 loss=0.018875960260629654
+epoch#186 D_train batch#200/225 loss=0.008376484736800194
+
+Test set: Average loss: 1.6377, Accuracy: 2441/3589 (68%)
+epoch #186/250 - ptime: 34.09
+----- epoch #187 -----
+epoch#187 D_train batch#0/225 loss=0.0017537586390972137
+epoch#187 D_train batch#100/225 loss=0.020845266059041023
+epoch#187 D_train batch#200/225 loss=0.02244759351015091
+
+Test set: Average loss: 1.5899, Accuracy: 2444/3589 (68%)
+epoch #187/250 - ptime: 30.39
+----- epoch #188 -----
+epoch#188 D_train batch#0/225 loss=0.0021636635065078735
+epoch#188 D_train batch#100/225 loss=0.007807888090610504
+epoch#188 D_train batch#200/225 loss=0.001499999314546585
+
+Test set: Average loss: 1.5667, Accuracy: 2474/3589 (68%)
+epoch #188/250 - ptime: 30.03
+----- epoch #189 -----
+epoch#189 D_train batch#0/225 loss=0.005133695900440216
+epoch#189 D_train batch#100/225 loss=0.007516350597143173
+epoch#189 D_train batch#200/225 loss=0.002312261611223221
+
+Test set: Average loss: 1.5856, Accuracy: 2432/3589 (67%)
+epoch #189/250 - ptime: 30.56
+----- epoch #190 -----
+epoch#190 D_train batch#0/225 loss=0.0007988512516021729
+epoch#190 D_train batch#100/225 loss=0.006775209680199623
+epoch#190 D_train batch#200/225 loss=0.0018839538097381592
+
+Test set: Average loss: 1.5974, Accuracy: 2453/3589 (68%)
+epoch #190/250 - ptime: 30.32
+----- epoch #191 -----
+epoch#191 D_train batch#0/225 loss=0.001466948539018631
+epoch#191 D_train batch#100/225 loss=0.002123422920703888
+epoch#191 D_train batch#200/225 loss=0.0009636580944061279
+
+Test set: Average loss: 1.5887, Accuracy: 2449/3589 (68%)
+epoch #191/250 - ptime: 30.19
+----- epoch #192 -----
+epoch#192 D_train batch#0/225 loss=0.011396946385502815
+epoch#192 D_train batch#100/225 loss=0.0014051683247089386
+epoch#192 D_train batch#200/225 loss=0.002541143447160721
+
+Test set: Average loss: 1.5636, Accuracy: 2474/3589 (68%)
+epoch #192/250 - ptime: 30.38
+----- epoch #193 -----
+epoch#193 D_train batch#0/225 loss=0.025461969897150993
+epoch#193 D_train batch#100/225 loss=0.0024667121469974518
+epoch#193 D_train batch#200/225 loss=0.017307579517364502
+
+Test set: Average loss: 1.5587, Accuracy: 2429/3589 (67%)
+epoch #193/250 - ptime: 30.23
+----- epoch #194 -----
+epoch#194 D_train batch#0/225 loss=0.007990557700395584
+epoch#194 D_train batch#100/225 loss=0.014836270362138748
+epoch#194 D_train batch#200/225 loss=0.002674311399459839
+
+Test set: Average loss: 1.6279, Accuracy: 2415/3589 (67%)
+epoch #194/250 - ptime: 30.30
+----- epoch #195 -----
+epoch#195 D_train batch#0/225 loss=0.0022995099425315857
+epoch#195 D_train batch#100/225 loss=0.0042229704558849335
+epoch#195 D_train batch#200/225 loss=0.004982559010386467
+
+Test set: Average loss: 1.5797, Accuracy: 2424/3589 (67%)
+epoch #195/250 - ptime: 30.98
+----- epoch #196 -----
+epoch#196 D_train batch#0/225 loss=0.0012567639350891113
+epoch#196 D_train batch#100/225 loss=0.005971446633338928
+epoch#196 D_train batch#200/225 loss=0.0015041157603263855
+
+Test set: Average loss: 1.5650, Accuracy: 2467/3589 (68%)
+epoch #196/250 - ptime: 31.14
+----- epoch #197 -----
+epoch#197 D_train batch#0/225 loss=0.0022499188780784607
+epoch#197 D_train batch#100/225 loss=0.009754026308655739
+epoch#197 D_train batch#200/225 loss=0.0015052296221256256
+
+Test set: Average loss: 1.5702, Accuracy: 2446/3589 (68%)
+epoch #197/250 - ptime: 31.49
+----- epoch #198 -----
+epoch#198 D_train batch#0/225 loss=0.04303533211350441
+epoch#198 D_train batch#100/225 loss=0.003909941762685776
+epoch#198 D_train batch#200/225 loss=0.003256041556596756
+
+Test set: Average loss: 1.5948, Accuracy: 2454/3589 (68%)
+epoch #198/250 - ptime: 31.12
+----- epoch #199 -----
+epoch#199 D_train batch#0/225 loss=0.012443667277693748
+epoch#199 D_train batch#100/225 loss=0.0021719858050346375
+epoch#199 D_train batch#200/225 loss=0.007952570915222168
+
+Test set: Average loss: 1.6230, Accuracy: 2405/3589 (67%)
+epoch #199/250 - ptime: 31.17
+----- epoch #200 -----
+epoch#200 D_train batch#0/225 loss=0.006352804601192474
+epoch#200 D_train batch#100/225 loss=0.005157992243766785
+epoch#200 D_train batch#200/225 loss=0.0020723380148410797
+
+Test set: Average loss: 1.5614, Accuracy: 2440/3589 (67%)
+epoch #200/250 - ptime: 42.09
+----- epoch #201 -----
+epoch#201 D_train batch#0/225 loss=0.005166299641132355
+epoch#201 D_train batch#100/225 loss=0.006240051239728928
+epoch#201 D_train batch#200/225 loss=0.023867638781666756
+
+Test set: Average loss: 1.5507, Accuracy: 2465/3589 (68%)
+epoch #201/250 - ptime: 37.53
+----- epoch #202 -----
+epoch#202 D_train batch#0/225 loss=0.0014804638922214508
+epoch#202 D_train batch#100/225 loss=0.0020373910665512085
+epoch#202 D_train batch#200/225 loss=0.005208078771829605
+
+Test set: Average loss: 1.5600, Accuracy: 2457/3589 (68%)
+epoch #202/250 - ptime: 31.00
+----- epoch #203 -----
+epoch#203 D_train batch#0/225 loss=0.0029322654008865356
+epoch#203 D_train batch#100/225 loss=0.0025984272360801697
+epoch#203 D_train batch#200/225 loss=0.024624232202768326
+
+Test set: Average loss: 1.5937, Accuracy: 2432/3589 (67%)
+epoch #203/250 - ptime: 32.19
+----- epoch #204 -----
+epoch#204 D_train batch#0/225 loss=0.001200065016746521
+epoch#204 D_train batch#100/225 loss=0.0010008104145526886
+epoch#204 D_train batch#200/225 loss=0.002290058881044388
+
+Test set: Average loss: 1.5599, Accuracy: 2423/3589 (67%)
+epoch #204/250 - ptime: 31.03
+----- epoch #205 -----
+epoch#205 D_train batch#0/225 loss=0.028806379064917564
+epoch#205 D_train batch#100/225 loss=0.0014781467616558075
+epoch#205 D_train batch#200/225 loss=0.004234787076711655
+
+Test set: Average loss: 1.6110, Accuracy: 2439/3589 (67%)
+epoch #205/250 - ptime: 31.65
+----- epoch #206 -----
+epoch#206 D_train batch#0/225 loss=0.001547589898109436
+epoch#206 D_train batch#100/225 loss=0.003230120986700058
+epoch#206 D_train batch#200/225 loss=0.0018685348331928253
+
+Test set: Average loss: 1.5565, Accuracy: 2457/3589 (68%)
+epoch #206/250 - ptime: 31.88
+----- epoch #207 -----
+epoch#207 D_train batch#0/225 loss=0.003862030804157257
+epoch#207 D_train batch#100/225 loss=0.007196227088570595
+epoch#207 D_train batch#200/225 loss=0.0010774359107017517
+
+Test set: Average loss: 1.5744, Accuracy: 2437/3589 (67%)
+epoch #207/250 - ptime: 31.33
+----- epoch #208 -----
+epoch#208 D_train batch#0/225 loss=0.005376320332288742
+epoch#208 D_train batch#100/225 loss=0.02436191588640213
+epoch#208 D_train batch#200/225 loss=0.0016621798276901245
+
+Test set: Average loss: 1.5363, Accuracy: 2481/3589 (69%)
+epoch #208/250 - ptime: 31.00
+----- epoch #209 -----
+epoch#209 D_train batch#0/225 loss=0.017181893810629845
+epoch#209 D_train batch#100/225 loss=0.008008401840925217
+epoch#209 D_train batch#200/225 loss=0.0011715851724147797
+
+Test set: Average loss: 1.5853, Accuracy: 2433/3589 (67%)
+epoch #209/250 - ptime: 32.25
+----- epoch #210 -----
+epoch#210 D_train batch#0/225 loss=0.01976846344769001
+epoch#210 D_train batch#100/225 loss=0.007057586684823036
+epoch#210 D_train batch#200/225 loss=0.02170744724571705
+
+Test set: Average loss: 1.5555, Accuracy: 2472/3589 (68%)
+epoch #210/250 - ptime: 80.73
+----- epoch #211 -----
+epoch#211 D_train batch#0/225 loss=0.005041290074586868
+epoch#211 D_train batch#100/225 loss=0.0017090067267417908
+epoch#211 D_train batch#200/225 loss=0.015533877536654472
+
+Test set: Average loss: 1.5730, Accuracy: 2457/3589 (68%)
+epoch #211/250 - ptime: 42.27
+----- epoch #212 -----
+epoch#212 D_train batch#0/225 loss=0.00550665520131588
+epoch#212 D_train batch#100/225 loss=0.002550330013036728
+epoch#212 D_train batch#200/225 loss=0.005957731977105141
+
+Test set: Average loss: 1.5462, Accuracy: 2460/3589 (68%)
+epoch #212/250 - ptime: 35.33
+----- epoch #213 -----
+epoch#213 D_train batch#0/225 loss=0.010287748649716377
+epoch#213 D_train batch#100/225 loss=0.001149553805589676
+epoch#213 D_train batch#200/225 loss=0.004787299782037735
+
+Test set: Average loss: 1.5684, Accuracy: 2454/3589 (68%)
+epoch #213/250 - ptime: 32.06
+----- epoch #214 -----
+epoch#214 D_train batch#0/225 loss=0.0012622587382793427
+epoch#214 D_train batch#100/225 loss=0.01069638505578041
+epoch#214 D_train batch#200/225 loss=0.014631913974881172
+
+Test set: Average loss: 1.5726, Accuracy: 2427/3589 (67%)
+epoch #214/250 - ptime: 31.62
+----- epoch #215 -----
+epoch#215 D_train batch#0/225 loss=0.003492835909128189
+epoch#215 D_train batch#100/225 loss=0.009380096569657326
+epoch#215 D_train batch#200/225 loss=0.0033091604709625244
+
+Test set: Average loss: 1.6022, Accuracy: 2431/3589 (67%)
+epoch #215/250 - ptime: 31.45
+----- epoch #216 -----
+epoch#216 D_train batch#0/225 loss=0.0144670270383358
+epoch#216 D_train batch#100/225 loss=0.001336716115474701
+epoch#216 D_train batch#200/225 loss=0.0013202875852584839
+
+Test set: Average loss: 1.5544, Accuracy: 2457/3589 (68%)
+epoch #216/250 - ptime: 48.55
+----- epoch #217 -----
+epoch#217 D_train batch#0/225 loss=0.005668774247169495
+epoch#217 D_train batch#100/225 loss=0.0023405589163303375
+epoch#217 D_train batch#200/225 loss=0.009893327951431274
+
+Test set: Average loss: 1.5513, Accuracy: 2462/3589 (68%)
+epoch #217/250 - ptime: 31.42
+----- epoch #218 -----
+epoch#218 D_train batch#0/225 loss=0.002643100917339325
+epoch#218 D_train batch#100/225 loss=0.003250889480113983
+epoch#218 D_train batch#200/225 loss=0.001869000494480133
+
+Test set: Average loss: 1.5928, Accuracy: 2436/3589 (67%)
+epoch #218/250 - ptime: 31.01
+----- epoch #219 -----
+epoch#219 D_train batch#0/225 loss=0.004012998193502426
+epoch#219 D_train batch#100/225 loss=0.008251979947090149
+epoch#219 D_train batch#200/225 loss=0.025649188086390495
+
+Test set: Average loss: 1.5749, Accuracy: 2447/3589 (68%)
+epoch #219/250 - ptime: 30.66
+----- epoch #220 -----
+epoch#220 D_train batch#0/225 loss=0.0013906359672546387
+epoch#220 D_train batch#100/225 loss=0.002092737704515457
+epoch#220 D_train batch#200/225 loss=0.0011956803500652313
+
+Test set: Average loss: 1.5710, Accuracy: 2456/3589 (68%)
+epoch #220/250 - ptime: 30.70
+----- epoch #221 -----
+epoch#221 D_train batch#0/225 loss=0.005402430891990662
+epoch#221 D_train batch#100/225 loss=0.0013805665075778961
+epoch#221 D_train batch#200/225 loss=0.022420091554522514
+
+Test set: Average loss: 1.5661, Accuracy: 2428/3589 (67%)
+epoch #221/250 - ptime: 30.82
+----- epoch #222 -----
+epoch#222 D_train batch#0/225 loss=0.00219113752245903
+epoch#222 D_train batch#100/225 loss=0.011968571692705154
+epoch#222 D_train batch#200/225 loss=0.006757451221346855
+
+Test set: Average loss: 1.5484, Accuracy: 2473/3589 (68%)
+epoch #222/250 - ptime: 30.51
+----- epoch #223 -----
+epoch#223 D_train batch#0/225 loss=0.005810189992189407
+epoch#223 D_train batch#100/225 loss=0.009431451559066772
+epoch#223 D_train batch#200/225 loss=0.011512979865074158
+
+Test set: Average loss: 1.5634, Accuracy: 2458/3589 (68%)
+epoch #223/250 - ptime: 30.40
+----- epoch #224 -----
+epoch#224 D_train batch#0/225 loss=0.011027567088603973
+epoch#224 D_train batch#100/225 loss=0.0018739216029644012
+epoch#224 D_train batch#200/225 loss=0.007376091554760933
+
+Test set: Average loss: 1.5390, Accuracy: 2458/3589 (68%)
+epoch #224/250 - ptime: 30.54
+----- epoch #225 -----
+epoch#225 D_train batch#0/225 loss=0.006100483238697052
+epoch#225 D_train batch#100/225 loss=0.020110704004764557
+epoch#225 D_train batch#200/225 loss=0.008932296186685562
+
+Test set: Average loss: 1.5655, Accuracy: 2441/3589 (68%)
+epoch #225/250 - ptime: 30.58
+----- epoch #226 -----
+epoch#226 D_train batch#0/225 loss=0.001378323882818222
+epoch#226 D_train batch#100/225 loss=0.0011705048382282257
+epoch#226 D_train batch#200/225 loss=0.012247318401932716
+
+Test set: Average loss: 1.5681, Accuracy: 2438/3589 (67%)
+epoch #226/250 - ptime: 30.93
+----- epoch #227 -----
+epoch#227 D_train batch#0/225 loss=0.001138489693403244
+epoch#227 D_train batch#100/225 loss=0.013015028089284897
+epoch#227 D_train batch#200/225 loss=0.01840316317975521
+
+Test set: Average loss: 1.5645, Accuracy: 2443/3589 (68%)
+epoch #227/250 - ptime: 30.97
+----- epoch #228 -----
+epoch#228 D_train batch#0/225 loss=0.009059850126504898
+epoch#228 D_train batch#100/225 loss=0.001327555626630783
+epoch#228 D_train batch#200/225 loss=0.0027114003896713257
+
+Test set: Average loss: 1.5780, Accuracy: 2442/3589 (68%)
+epoch #228/250 - ptime: 30.62
+----- epoch #229 -----
+epoch#229 D_train batch#0/225 loss=0.001351039856672287
+epoch#229 D_train batch#100/225 loss=0.0040007419884204865
+epoch#229 D_train batch#200/225 loss=0.006607506424188614
+
+Test set: Average loss: 1.5320, Accuracy: 2460/3589 (68%)
+epoch #229/250 - ptime: 30.55
+----- epoch #230 -----
+epoch#230 D_train batch#0/225 loss=0.0041431039571762085
+epoch#230 D_train batch#100/225 loss=0.0031003206968307495
+epoch#230 D_train batch#200/225 loss=0.006132133305072784
+
+Test set: Average loss: 1.5817, Accuracy: 2440/3589 (67%)
+epoch #230/250 - ptime: 31.23
+----- epoch #231 -----
+epoch#231 D_train batch#0/225 loss=0.0034155696630477905
+epoch#231 D_train batch#100/225 loss=0.0036608874797821045
+epoch#231 D_train batch#200/225 loss=0.0009839311242103577
+
+Test set: Average loss: 1.5624, Accuracy: 2476/3589 (68%)
+epoch #231/250 - ptime: 30.73
+----- epoch #232 -----
+epoch#232 D_train batch#0/225 loss=0.0015100911259651184
+epoch#232 D_train batch#100/225 loss=0.0020357221364974976
+epoch#232 D_train batch#200/225 loss=0.009309325367212296
+
+Test set: Average loss: 1.5560, Accuracy: 2442/3589 (68%)
+epoch #232/250 - ptime: 31.05
+----- epoch #233 -----
+epoch#233 D_train batch#0/225 loss=0.004048313945531845
+epoch#233 D_train batch#100/225 loss=0.007725130766630173
+epoch#233 D_train batch#200/225 loss=0.013932310044765472
+
+Test set: Average loss: 1.5529, Accuracy: 2432/3589 (67%)
+epoch #233/250 - ptime: 30.87
+----- epoch #234 -----
+epoch#234 D_train batch#0/225 loss=0.0012251846492290497
+epoch#234 D_train batch#100/225 loss=0.012881480157375336
+epoch#234 D_train batch#200/225 loss=0.021746959537267685
+
+Test set: Average loss: 1.5400, Accuracy: 2466/3589 (68%)
+epoch #234/250 - ptime: 48.10
+----- epoch #235 -----
+epoch#235 D_train batch#0/225 loss=0.004118289798498154
+epoch#235 D_train batch#100/225 loss=0.0027374420315027237
+epoch#235 D_train batch#200/225 loss=0.0015964843332767487
+
+Test set: Average loss: 1.5685, Accuracy: 2472/3589 (68%)
+epoch #235/250 - ptime: 30.50
+----- epoch #236 -----
+epoch#236 D_train batch#0/225 loss=0.001140538603067398
+epoch#236 D_train batch#100/225 loss=0.0038417205214500427
+epoch#236 D_train batch#200/225 loss=0.004262574017047882
+
+Test set: Average loss: 1.5806, Accuracy: 2441/3589 (68%)
+epoch #236/250 - ptime: 30.56
+----- epoch #237 -----
+epoch#237 D_train batch#0/225 loss=0.01046430692076683
+epoch#237 D_train batch#100/225 loss=0.006133107468485832
+epoch#237 D_train batch#200/225 loss=0.0035657361149787903
+
+Test set: Average loss: 1.5752, Accuracy: 2443/3589 (68%)
+epoch #237/250 - ptime: 30.60
+----- epoch #238 -----
+epoch#238 D_train batch#0/225 loss=0.015181444585323334
+epoch#238 D_train batch#100/225 loss=0.0016203336417675018
+epoch#238 D_train batch#200/225 loss=0.006431370973587036
+
+Test set: Average loss: 1.5548, Accuracy: 2477/3589 (69%)
+epoch #238/250 - ptime: 30.56
+----- epoch #239 -----
+epoch#239 D_train batch#0/225 loss=0.006630200892686844
+epoch#239 D_train batch#100/225 loss=0.015614915639162064
+epoch#239 D_train batch#200/225 loss=0.004815388470888138
+
+Test set: Average loss: 1.5857, Accuracy: 2438/3589 (67%)
+epoch #239/250 - ptime: 45.28
+----- epoch #240 -----
+epoch#240 D_train batch#0/225 loss=0.0033511146903038025
+epoch#240 D_train batch#100/225 loss=0.016374995931982994
+epoch#240 D_train batch#200/225 loss=0.0011493824422359467
+
+Test set: Average loss: 1.5594, Accuracy: 2439/3589 (67%)
+epoch #240/250 - ptime: 29.69
+----- epoch #241 -----
+epoch#241 D_train batch#0/225 loss=0.003978274762630463
+epoch#241 D_train batch#100/225 loss=0.0017448440194129944
+epoch#241 D_train batch#200/225 loss=0.0025401823222637177
+
+Test set: Average loss: 1.5491, Accuracy: 2460/3589 (68%)
+epoch #241/250 - ptime: 31.01
+----- epoch #242 -----
+epoch#242 D_train batch#0/225 loss=0.018639234825968742
+epoch#242 D_train batch#100/225 loss=0.009584922343492508
+epoch#242 D_train batch#200/225 loss=0.0013008452951908112
+
+Test set: Average loss: 1.5550, Accuracy: 2451/3589 (68%)
+epoch #242/250 - ptime: 31.07
+----- epoch #243 -----
+epoch#243 D_train batch#0/225 loss=0.0014178566634654999
+epoch#243 D_train batch#100/225 loss=0.0018284954130649567
+epoch#243 D_train batch#200/225 loss=0.001336570829153061
+
+Test set: Average loss: 1.5598, Accuracy: 2424/3589 (67%)
+epoch #243/250 - ptime: 30.87
+----- epoch #244 -----
+epoch#244 D_train batch#0/225 loss=0.004331506788730621
+epoch#244 D_train batch#100/225 loss=0.0023118332028388977
+epoch#244 D_train batch#200/225 loss=0.005532531067728996
+
+Test set: Average loss: 1.5354, Accuracy: 2427/3589 (67%)
+epoch #244/250 - ptime: 30.86
+----- epoch #245 -----
+epoch#245 D_train batch#0/225 loss=0.0013789832592010498
+epoch#245 D_train batch#100/225 loss=0.00836600735783577
+epoch#245 D_train batch#200/225 loss=0.009458351880311966
+
+Test set: Average loss: 1.5788, Accuracy: 2457/3589 (68%)
+epoch #245/250 - ptime: 30.77
+----- epoch #246 -----
+epoch#246 D_train batch#0/225 loss=0.003971099853515625
+epoch#246 D_train batch#100/225 loss=0.0010893307626247406
+epoch#246 D_train batch#200/225 loss=0.0018675215542316437
+
+Test set: Average loss: 1.5367, Accuracy: 2458/3589 (68%)
+epoch #246/250 - ptime: 30.84
+----- epoch #247 -----
+epoch#247 D_train batch#0/225 loss=0.020293360576033592
+epoch#247 D_train batch#100/225 loss=0.011838963255286217
+epoch#247 D_train batch#200/225 loss=0.0017122291028499603
+
+Test set: Average loss: 1.5415, Accuracy: 2465/3589 (68%)
+epoch #247/250 - ptime: 30.75
+----- epoch #248 -----
+epoch#248 D_train batch#0/225 loss=0.0029317252337932587
+epoch#248 D_train batch#100/225 loss=0.004638075828552246
+epoch#248 D_train batch#200/225 loss=0.004885422065854073
+
+Test set: Average loss: 1.5547, Accuracy: 2423/3589 (67%)
+epoch #248/250 - ptime: 30.86
+----- epoch #249 -----
+epoch#249 D_train batch#0/225 loss=0.0009666681289672852
+epoch#249 D_train batch#100/225 loss=0.004474081099033356
+epoch#249 D_train batch#200/225 loss=0.004567820578813553
+
+Test set: Average loss: 1.5843, Accuracy: 2430/3589 (67%)
+epoch #249/250 - ptime: 30.82

@@ -27,7 +27,7 @@ if not os.path.exists(folder_path):
     os.mkdir(folder_path)
 sys.stdout=Logger(folder_path+'nn-b-'+timeStr+'.txt')
 img_size = 48
-batch_size = 64
+batch_size = 128
 num_epoch = 250
 use_cuda=True
 learning_rate_decay_start = 80  # 50
@@ -39,13 +39,13 @@ device=torch.device("cuda")# if use_cuda else torch.device("cpu")
 train_transform = transforms.Compose([
     transforms.RandomCrop(44),
     transforms.RandomHorizontalFlip(),
-    transforms.Grayscale(),
+    #transforms.Grayscale(),
     transforms.ToTensor(),
     #transforms.Normalize(mean=(0.5,0.5,0.5),std=(0.5,0.5,0.5))
 ])
 test_transform = transforms.Compose([
     transforms.RandomCrop(44),
-    transforms.Grayscale(),
+    #transforms.Grayscale(),
     transforms.ToTensor(),
     #transforms.Normalize(mean=(0.5,0.5,0.5),std=(0.5,0.5,0.5))
 ])
